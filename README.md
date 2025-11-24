@@ -1,8 +1,7 @@
 # node-mongodb
-A Node.js + MongoDB back-end project showcasing a structured MVC architecture with controllers, models, views and RESTful routes.
+A Node.js + MongoDB back-end project showcasing a structured MVC architecture with controllers, models, views and RESTful routes. Made for my final project on a mini node.js course I did with Simplilearn. This repository provides a backend application implemented in Node.js, connected to MongoDB, using a clear folder structure (controllers, models, views) to separate concerns and support maintainability and scalability. It is ideal for demonstration, learning, or as a scaffold for your own full-stack project.
 
 ## Table of Contents
-- [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -16,16 +15,13 @@ A Node.js + MongoDB back-end project showcasing a structured MVC architecture wi
 - [License](#license)
 - [Contact](#contact)
 
-## About the Project
-This repository provides a backend application implemented in Node.js, connected to MongoDB, using a clear folder structure (controllers, models, views) to separate concerns and support maintainability and scalability.
-It is ideal for demonstration, learning, or as a scaffold for your own full-stack project.
 
 ## Built With
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/) (or similar – replace if you use another)
 - [MongoDB](https://www.mongodb.com/)
 - Mongoose (or native MongoDB driver) for modelling data
-- MVC folder structure: **controllers/**, **models/**, **views/**
+- MVC folder structure: **models/**, **views/**, **controllers/**
 - ES6+ JavaScript syntax
 
 ## Getting Started
